@@ -1,5 +1,5 @@
 Kampus Merdeka x BANGKIT 2022
-# 07-Preparing-for-ACE-Certification
+# 07. Preparing for ACE Certification
 Repository ini Berisi Pengalaman Belajar Saya di Bangkit 2022 pada Minggu Ke-11
 
 **25-29 April 2022**  
